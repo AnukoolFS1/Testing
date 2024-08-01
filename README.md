@@ -1,2 +1,4 @@
 # Testing
-Learning git repo for experiments on github
+Learning git/github for experiments
+<hr />
+Author : Anukool
